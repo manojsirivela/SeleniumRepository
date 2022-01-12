@@ -20,7 +20,7 @@ public class Global_variables
    public static void m2() // static method
     {
     	new Global_variables().m1(); 
-    	System.out.println("printing....vvvf static variable in static method "+ fee);
+    	System.out.println("printing....vvvfjj static variable in static method "+ fee);
     	System.out.println("printing non-static variable in static method "+ new Global_variables().name);
     }
 
